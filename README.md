@@ -2,7 +2,7 @@
 
 页面代码:src/pages
 
-1、主页：home
+1、主页：index
 
 2、产品：product
 
@@ -14,7 +14,7 @@
 
 6、演示环境:demo
 
-7、组件：home/common/header, home/common/footer
+7、组件：common/header, common/footer
 
 
-自行添加对应页面
+自行修改添加对应页面
